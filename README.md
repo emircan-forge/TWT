@@ -8,16 +8,6 @@
 
 *Created by: Emircan Akalın*
 
----
-
-### Screenshot
-*(You can add a screenshot of the console menu here. Replace the URL below after uploading.)*
-
-![Tricks with Trojan's Menu](https://example.com/path/to/screenshot.png) 
-*View of the main menu*
-
----
-
 ## 🚀 Features
 
 * **Interactive Text-Based Menu:** A user-friendly interface for easy access to all modules.
