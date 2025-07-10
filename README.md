@@ -6,7 +6,7 @@
 
 **Tricks with Trojan's (TWT)** is an interactive system analysis and basic threat response toolkit for Windows systems, built on PowerShell. With its user-friendly text-based menu, it allows both novice and experienced users to quickly perform security checks on their systems.
 
-*Created by: Emircan Akalın*
+**emircan-forge**
 
 ## 🚀 Features
 
